@@ -1,2 +1,2 @@
-# Stuff-I-Want-to-Share
-Public files I don't mind sharing with the wider community
+# Stuff I want to share
+You will find public files I don't mind sharing with the wider community here
